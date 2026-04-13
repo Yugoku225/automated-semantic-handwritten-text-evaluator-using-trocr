@@ -1,0 +1,12 @@
+opencv-python==4.9.0.80
+pytesseract
+transformers
+sentence-transformers
+numpy<2
+scikit-learn
+Pillow
+requests
+nltk
+pyspellchecker
+streamlit
+PyPDF2
